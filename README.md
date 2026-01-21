@@ -3,7 +3,7 @@
 > **Projeto Final de POO (ADS 2025.2)** > Sistema em Python para catalogação e classificação taxonômica de plantas, simulando uma demanda real para ONGs.
 
 ## 📋 Sobre o Projeto
-Este software foi desenvolvido para solucionar o problema de identificação e classificação de espécies vegetais da **ONG BioBrasil**. Diferente de um cadastro simples, o sistema utiliza um algoritmo de decisão baseado em características biológicas (presença de flores, vasos, sementes e frutos) para determinar automaticamente a classe taxonômica correta:
+Desenvolvi este software para solucionar o problema de identificação e classificação de espécies vegetais da **ONG BioBrasil**. Diferente de um cadastro simples, o sistema utiliza um algoritmo de decisão baseado em características biológicas (presença de flores, vasos, sementes e frutos) para determinar automaticamente a classe taxonômica correta:
 
 * **Briófitas** (ex: Musgos)
 * **Pteridófitas** (ex: Samambaias)
